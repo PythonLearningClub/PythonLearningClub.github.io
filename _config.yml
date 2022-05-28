@@ -21,7 +21,7 @@
 title: Python Learning Club
 # email: ' '
 description: >- # this means to ignore newlines until "baseurl:"
-  Page to hold projects for python club.
+  Projects for python club.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

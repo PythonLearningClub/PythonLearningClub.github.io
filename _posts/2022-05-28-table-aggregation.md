@@ -6,3 +6,5 @@ title:  "DB Tables Aggregation"
 * Idea: Stat
 * Project Manager: Nikita
 * Project Developer: Alina
+
+![Drop of acid](/assets/aciddrop.jpg)
