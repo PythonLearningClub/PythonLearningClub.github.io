@@ -44,4 +44,4 @@ Resulting table:
 |02|020101|2022-05-26|2000|1900|100|47|42|11|1800|
 
 
-You can generate fake table entries using [mockbase]().
+You can generate fake table entries using [mockbase](https://github.com/PythonLearningClub/mockbase).
